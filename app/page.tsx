@@ -147,11 +147,11 @@ export default function Home() {
           © 2024 Galatic Pinball. All rights reserved.
         </p>
         <nav className="sm:ml-auto flex gap-4 sm:gap-6">
-          <Link className="text-xs hover:underline underline-offset-4" href="#">
-            Terms of Service
-          </Link>
-          <Link className="text-xs hover:underline underline-offset-4" href="#">
-            Privacy
+          <Link
+            className="text-xs hover:underline underline-offset-4"
+            href="https://docs.google.com/document/d/1TPHy_xKHEnsTYVLiES5SveEhKCdqAfGgEpGvY9La6y4/view"
+          >
+            Manual de uso
           </Link>
         </nav>
       </footer>
