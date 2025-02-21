@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight, Zap, Target, Volume2 } from "lucide-react";
 import Image from "next/image";
 import logo from "./logo.jpeg";
-import produto from "./produto.jpeg";
+import produto from "./produto-2.jpeg";
 
 export default function Home() {
   return (
